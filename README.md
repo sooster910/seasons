@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This simple project is a practice of functional component and class compnent.  
+
+#  The users have experience different screen by detecting what seasons the user crrently experiencing depends on their physical location.  
+
+
 
 ## Available Scripts
 
