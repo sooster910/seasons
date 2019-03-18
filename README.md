@@ -1,5 +1,5 @@
-#This simple project is a practice of functional component and class compnent from Udemy react course  
-The users have experience different screen by detecting what seasons the user crrently experiencing depends on their physical location.  
+<h3>This simple project is a practice of functional component and class compnent from Udemy react course</h3>  
+It allows user to have a different screen by detecting what seasons the user crrently experiencing depends on their physical location.  
 
 
 
